@@ -1,0 +1,9 @@
+com\example\model\Item.class
+com\example\config\AppConfiguration.class
+com\example\views\AvatarView.class
+com\example\model\Avatar.class
+com\example\services\AvatarService.class
+com\example\servlets\AvatarServlet.class
+com\example\repositories\AvatarRepository.class
+com\example\config\Initializer.class
+com\example\repositories\ItemRepository.class
