@@ -1,0 +1,9 @@
+com\example\config\AppConfiguration.class
+com\example\repositories\RoleRepository.class
+com\example\model\Role.class
+com\example\services\UserService.class
+com\example\repositories\UserRepository.class
+com\example\views\UsersView.class
+com\example\config\Initializer.class
+com\example\model\User.class
+com\example\servlets\UserServlet.class
