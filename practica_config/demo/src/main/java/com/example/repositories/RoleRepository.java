@@ -23,6 +23,10 @@ public class RoleRepository {
         return roles.stream().filter(u -> u.getId() == id).findFirst().get();
     }
 
+    public List<Role> findAll(){
+        return roles;
+    }
+
     
     
     
